@@ -1,0 +1,31 @@
+_repo: Shakespeare-s-treatment-of-love-and-marriage-and-other-essays_69468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herford, C. H. (Charles Harold)
+    alias: Herford, Charles Harold
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '5599'
+    url: http://www.gutenberg.org/2009/agents/5599
+    wikipedia: https://en.wikipedia.org/wiki/C._H._Herford
+description: ''
+gutenberg_issued: '2022-12-04'
+identifiers:
+  gutenberg: '69468'
+language: en
+pgterms:marc904: https://archive.org/details/shakespearestrea00herfuoft
+pgterms:marc905: 20210426080000herford
+pgterms:marc906: '1921'
+pgterms:marc907: UK
+production_note: Tim Lindell, Turgut Dincer, Eleni Christofaki and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: 'UK: T.F. Unwin ltd,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Shakespeare's treatment of love and marriage and other essays
+url: http://www.gutenberg.org/ebooks/69468
